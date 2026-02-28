@@ -1,0 +1,5 @@
+{
+  "name": "雅思单词大闯关",
+  "description": "二次元风格的雅思单词闯关游戏，支持10个关卡，实时发音，数据同步至Google Sheets。",
+  "requestFramePermissions": []
+}
